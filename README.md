@@ -1,4 +1,4 @@
 # Personal-CV
-## 📄 [Download My Personal CV]
+## 📄 [Check out My Personal Resume]
 
 
