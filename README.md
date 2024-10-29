@@ -1,2 +1,3 @@
 # Personal-CV
-Kindly do check out my CV.
+## 📄 [Download My Personal CV (PDF)](CV.pdf)
+
