@@ -1,3 +1,4 @@
 # Personal-CV
-## 📄 [Download My Personal CV (PDF)](CV.pdf)
+## 📄 [Download My Personal CV (PDF)](AmmarBinYasirResume.pdf)
+
 
